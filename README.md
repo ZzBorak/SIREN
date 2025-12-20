@@ -59,34 +59,35 @@ Designed with performance, stability, and clean UI/UX in mind.
 
 ✦ Design Philosophy
 
-  Minimal overhead
-  
-  No unnecessary hooks
-  
-  Clean separation between logic and UI
-  
-  Built to be readable, maintainable, and extensible
-  
-  This project prioritizes stability over gimmicks.
+    Minimal overhead
+    
+    No unnecessary hooks
+    
+    Clean separation between logic and UI
+    
+    Built to be readable, maintainable, and extensible
+    
+    This project prioritizes stability over gimmicks.
   
 ✦ Compatibility
 
-Client-side execution
-
-Designed for controlled/private environments
-
-No modification of tool or weapon internals required
+    Client-side execution
+    
+    Designed for controlled/private environments
+    
+    No modification of tool or weapon internals required
 
 ✦ Updates
 
-  All updates are pushed remotely.
-  
-  Users do not need to change their loader.
+    All updates are pushed remotely.
+    
+    Users do not need to change their loader.
   
 ✦ Disclaimer
 
-  This project is intended for educational and development purposes only.
-  Use responsibly and only in environments where you have permission.
+    This project is intended for educational and development purposes only.
+    Use responsibly and only in environments where you have permission.
 
 ✦ Credits
-  Developed and maintained by ZzBorak.
+
+    Developed and maintained by ZzBorak.
