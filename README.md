@@ -1,6 +1,10 @@
 **SIREN is a modular internal utility framework built for controlled environments.
 Designed with performance, stability, and clean UI/UX in mind.**
 
+✦ Loader
+
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/ZzBorak/Siren/refs/heads/main/D-Day%20Scipt%20-%20OWNED.txt?token=GHSAT0AAAAAADRVJLWGEXVFXFRA6JHY5APU2KG2VLQ))()
+
 ✦ Features
 
   🎯 Advanced Aimbot System
