@@ -99,3 +99,16 @@ SIREN uses a remote loader to ensure users always run the latest version.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ZzBorak/Siren/refs/heads/main/D-Day%20Scipt%20-%20OWNED.txt?token=GHSAT0AAAAAADRVJLWGEXVFXFRA6JHY5APU2KG2VLQ"))()
+
+
+---
+
+## ⚠ Disclaimer
+
+This project is provided for **educational and development purposes only**.  
+Use responsibly and only in environments where you have permission.
+
+---
+
+**SIREN** — Built clean. Built internal.
+
