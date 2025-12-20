@@ -1,5 +1,5 @@
-SIREN is a modular internal utility framework built for controlled environments.
-Designed with performance, stability, and clean UI/UX in mind.
+**SIREN is a modular internal utility framework built for controlled environments.
+Designed with performance, stability, and clean UI/UX in mind.**
 
 ✦ Features
 
