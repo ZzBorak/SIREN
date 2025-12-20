@@ -1,97 +1,101 @@
-**SIREN is a modular internal utility framework built for controlled environments.
-Designed with performance, stability, and clean UI/UX in mind.**
+# SIREN
+## Internal Framework
 
-✦ Loader
+### Precision • Control • Presence
 
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/ZzBorak/Siren/refs/heads/main/D-Day%20Scipt%20-%20OWNED.txt?token=GHSAT0AAAAAADRVJLWGEXVFXFRA6JHY5APU2KG2VLQ))()
+**SIREN** is a premium internal framework engineered for performance, stability, and a refined paid-style experience.  
+Built to feel smooth, responsive, and intentional — without unnecessary noise.
 
-✦ Features
+---
 
-  🎯 Advanced Aimbot System
-  
-    FOV-based target selection
-    
-    Visibility checks
-    
-    Smooth camera interpolation
-    
-    Confidence-based target locking
-    
-  👁 ESP System
-  
-    Dynamic bounding boxes
-    
-    Visibility-aware coloring
-    
-    Automatic cleanup on death / despawn
-  
-  🦘 Infinite Jump
-  
-    Lightweight and toggleable
-    
-    Does not interfere with default movement
-    
-  🧠 State-Synced UI
-  
-    Fully animated toggles
-    
-    Hotkey ↔ UI synchronization
-    
-    Smooth transitions and glow effects
-  
-  🎨 Paid-Style Interface
-  
-    Animated gradients
-    
-    Subtle motion & polish
-    
-    Scalable, draggable, and layered UI
-    
-    Designed to stay above all other GUIs
+# ✦ FEATURES
 
-✦ Controls
+## 🎯 Smart Aimbot
+- FOV-based target selection  
+- Visibility-checked locking  
+- Smooth, natural camera movement  
+- UI & hotkey synchronized states  
 
-            Action	                              Key
-            
-          Toggle Menu	                         RightShift
-          
-         Toggle Aimbot	                           K
-         
-     Toggle Infinite Jump	                         L
-     
-        Aim Activation                   	 Right Mouse Button
+## 👁 Advanced ESP
+- Clean, eye-friendly box ESP  
+- Visibility-aware coloring  
+- Automatic cleanup on death or off-screen  
+- Optimized render loop  
 
-✦ Design Philosophy
+## 🦘 Utility
+- Infinite Jump  
+- Toggleable via UI & hotkeys  
+- Instant state syncing  
 
-    Minimal overhead
-    
-    No unnecessary hooks
-    
-    Clean separation between logic and UI
-    
-    Built to be readable, maintainable, and extensible
-    
-    This project prioritizes stability over gimmicks.
-  
-✦ Compatibility
+## 🎨 Premium Interface
+- Paid-style animated UI  
+- Smooth open / close transitions  
+- Glow & pulse effects  
+- Draggable & scalable  
+- Always-on-top rendering  
 
-    Client-side execution
-    
-    Designed for controlled/private environments
-    
-    No modification of tool or weapon internals required
+---
 
-✦ Updates
+# ⌨ CONTROLS
 
-    All updates are pushed remotely.
-    
-    Users do not need to change their loader.
-  
-✦ Disclaimer
+- **Menu Toggle:** `RightShift`  
+- **Aimbot Toggle:** `K`  
+- **Infinite Jump Toggle:** `L`  
+- **Aim Key:** Right Mouse Button  
 
-    This project is intended for educational and development purposes only.
-    Use responsibly and only in environments where you have permission.
+All controls are fully synchronized with the UI — no desync.
 
-✦ Credits
+---
 
-    Developed and maintained by ZzBorak.
+# 📦 CHANGELOG
+
+## v4.0
+- Paid-style UI polish  
+- Smooth toggle animations  
+- Full hotkey ↔ UI sync  
+- ESP visibility optimizations  
+
+## v3.9
+- Improved aimbot smoothing  
+- Cleanup fixes for ESP  
+- Stability improvements  
+
+## v3.8
+- Initial premium UI release  
+- Core aimbot & ESP systems  
+
+---
+
+# 📄 USAGE
+
+1. Execute the loader  
+2. Press **RightShift** to open the menu  
+3. Toggle features via UI or hotkeys  
+4. Adjust settings in real time  
+
+Updates are applied automatically through the loader.
+
+---
+
+# 🧠 DESIGN PHILOSOPHY
+
+SIREN is built around a simple idea:
+
+> **Quality over noise.**
+
+- Stability-first development  
+- Clean internal logic  
+- Minimal hooks  
+- Clear separation between UI and core systems  
+- Designed for controlled environments  
+
+Every feature exists for a reason.
+
+---
+
+# ⚡ LOADER
+
+SIREN uses a remote loader to ensure users always run the latest version.
+
+```lua
+loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
