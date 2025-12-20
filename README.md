@@ -98,4 +98,4 @@ Every feature exists for a reason.
 SIREN uses a remote loader to ensure users always run the latest version.
 
 ```lua
-loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZzBorak/Siren/refs/heads/main/D-Day%20Scipt%20-%20OWNED.txt?token=GHSAT0AAAAAADRVJLWGEXVFXFRA6JHY5APU2KG2VLQ"))()
