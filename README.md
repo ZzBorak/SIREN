@@ -98,7 +98,7 @@ Every feature exists for a reason.
 SIREN uses a remote loader to ensure users always run the latest version.
 
 ```lua
-loadstring(game:HttpGet("https://pastebin.com/raw/YgwP8mYZ"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/XmUBuxKs"))()
 ```
 
 ---
